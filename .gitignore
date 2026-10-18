@@ -50,15 +50,7 @@ Thumbs.db
 
 
 
-# =========================
-# Vector databases and indexes
-# =========================
-chroma_db/
-chroma/
-vector_db/
-.faiss/
-*.faiss
-*.index
+
 
 # =========================
 # Generated processing output
